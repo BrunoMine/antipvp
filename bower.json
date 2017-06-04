@@ -1,0 +1,11 @@
+{
+    "name": "antipvp",
+    "description": "Adiciona itens que impedem PVP em areas",
+    "keywords": [
+        "antipvp"
+    ],
+    "homepage": "https://github.com/BrunoMine/antipvp",
+    "authors": [
+        "BrunoMine"
+    ]
+}
