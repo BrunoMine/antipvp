@@ -1,7 +1,7 @@
 # Configurações aplicaveis para o menu gráfico
 
-# Dintancia em blocos que um carpete anti PVP atua
-antipvp_dist (Distancia de efeito do carpete) int 25 1 50
+# Dintancia em blocos que uma placa anti PVP atua
+antipvp_dist (Distancia de efeito da placa) int 25 1 50
 
 
 
